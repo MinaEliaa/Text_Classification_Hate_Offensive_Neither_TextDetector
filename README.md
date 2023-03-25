@@ -24,7 +24,7 @@
 	</ul>
 	
 
-	</ul>
+	
 	<h2>Confusion Matrix</h2>
 <table>
 	<tr>
