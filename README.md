@@ -6,20 +6,47 @@
 	and I connect this model with Flask Api to put it on Local server with Http Post request
 </head>
 <body>
-	<h1>Welcome to my GitHub Profile</h1>
-	<p>Hi, I'm [Your Name] and this is my GitHub profile. Here you'll find all my latest projects and contributions.</p>
-	<h2>My Projects</h2>
+	<h1>Size of Tweets of classes (After Balancing Dataset)</h1>
+	<p><ul>
+		<li>Class:0 (Hate Speech) = 11440 </li>
+		<li>Class:1 (Offensive Speech) = 12000 </li>
+		<li>Class:2 (neither) = 12489 </li>
+		
+	</ul></p>
+	<h2>Stats and Accuarcy of SVM Model</h2>
 	<ul>
-		<li><a href="[Link to project 1]">Project 1</a></li>
-		<li><a href="[Link to project 2]">Project 2</a></li>
-		<li><a href="[Link to project 3]">Project 3</a></li>
+		<li>Accuracy Score: -> 96.45%</li>
+		<li>pre Score: -> 96.59%</li>
+		<li>recall Score: -> 96.45</li>
+		<li>f1-score: -> 96.41%</li>
+		
+		
 	</ul>
-	<h2>My Skills</h2>
+	<h2>Confusion Matrix</h2>
 	<ul>
-		<li>HTML</li>
-		<li>CSS</li>
-		<li>JavaScript</li>
-		<li>Python</li>
+		<table>
+	<tr>
+		<th>Label 1</th>
+		<th>Label 2</th>
+		<th>Label 3</th>
+	</tr>
+	<tr>
+		<td>Data 1A</td>
+		<td>Data 2A</td>
+		<td>Data 3A</td>
+	</tr>
+	<tr>
+		<td>Data 1B</td>
+		<td>Data 2B</td>
+		<td>Data 3B</td>
+	</tr>
+	<tr>
+		<td>Data 1C</td>
+		<td>Data 2C</td>
+		<td>Data 3C</td>
+	</tr>
+</table>
+
 	</ul>
 </body>
 </html>
