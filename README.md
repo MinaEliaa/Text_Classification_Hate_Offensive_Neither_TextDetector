@@ -12,13 +12,14 @@
 		<li>Class 2 (Neither): 12489 tweets</li>
 	</ul>
 	
-	<h2>Statistics and Accuracy of SVM Model</h2>
+	<h1>Statistics and Accuracy of SVM Model</h1>
 	<ul>
 		<li>Accuracy Score: 96.45%</li>
 		<li>Precision Score: 96.59%</li>
 		<li>Recall Score: 96.45%</li>
 		<li>F1-Score: 96.41%</li>
 	</ul>
+	
 	
 	<h2>Confusion Matrix</h2>
 	<table>
