@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My GitHub Profile</title>
+	SVM Model to test tweet(text) if it 'Hate' , 'Offensive' , 'Neither' 
+	and I connect this model with Flask Api to put it on Local server with Http Post request
 </head>
 <body>
 	<h1>Welcome to my GitHub Profile</h1>
