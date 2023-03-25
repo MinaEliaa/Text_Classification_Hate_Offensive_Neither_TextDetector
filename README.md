@@ -2,51 +2,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Text Classification: Hate, Offensive, or Neither</title>
+	<title>My GitHub Profile</title>
 </head>
 <body>
-	<h1>Size of Tweets of Classes (After Balancing Dataset)</h1>
+	<h1>Welcome to my GitHub Profile</h1>
+	<p>Hi, I'm [Your Name] and this is my GitHub profile. Here you'll find all my latest projects and contributions.</p>
+	<h2>My Projects</h2>
 	<ul>
-		<li>Class 0 (Hate Speech): 11440 tweets</li>
-		<li>Class 1 (Offensive Speech): 12000 tweets</li>
-		<li>Class 2 (Neither): 12489 tweets</li>
+		<li><a href="[Link to project 1]">Project 1</a></li>
+		<li><a href="[Link to project 2]">Project 2</a></li>
+		<li><a href="[Link to project 3]">Project 3</a></li>
 	</ul>
-	
-	<h1>Statistics and Accuracy of SVM Model</h1>
+	<h2>My Skills</h2>
 	<ul>
-		<li>Accuracy Score: 96.45%</li>
-		<li>Precision Score: 96.59%</li>
-		<li>Recall Score: 96.45%</li>
-		<li>F1-Score: 96.41%</li>
+		<li>HTML</li>
+		<li>CSS</li>
+		<li>JavaScript</li>
+		<li>Python</li>
 	</ul>
-	
-	
-	<h2>Confusion Matrix</h2>
-	<table>
-		<tr>
-			<th></th>
-			<th>Hate Speech</th>
-			<th>Offensive Speech</th>
-			<th>Neither</th>
-		</tr>
-		<tr>
-			<th>Hate Speech</th>
-			<td>Data 1A</td>
-			<td>Data 2A</td>
-			<td>Data 3A</td>
-		</tr>
-		<tr>
-			<th>Offensive Speech</th>
-			<td>Data 1B</td>
-			<td>Data 2B</td>
-			<td>Data 3B</td>
-		</tr>
-		<tr>
-			<th>Neither</th>
-			<td>Data 1C</td>
-			<td>Data 2C</td>
-			<td>Data 3C</td>
-		</tr>
-	</table>
 </body>
 </html>
