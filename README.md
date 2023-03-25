@@ -22,6 +22,9 @@
 		
 		
 	</ul>
+	
+
+	</ul>
 	<h2>Confusion Matrix</h2>
 <table>
 	<tr>
@@ -49,7 +52,5 @@
 		<td>Data 3C</td>
 	</tr>
 </table>
-
-	</ul>
 </body>
 </html>
