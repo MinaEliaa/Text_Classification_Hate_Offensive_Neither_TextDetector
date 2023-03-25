@@ -23,24 +23,27 @@
 		
 	</ul>
 	<h2>Confusion Matrix</h2>
-	<ul>
-		<table>
+<table>
 	<tr>
+		<th></th>
 		<th>Label 1</th>
 		<th>Label 2</th>
 		<th>Label 3</th>
 	</tr>
 	<tr>
+		<th>Label 1</th>
 		<td>Data 1A</td>
 		<td>Data 2A</td>
 		<td>Data 3A</td>
 	</tr>
 	<tr>
+		<th>Label 2</th>
 		<td>Data 1B</td>
 		<td>Data 2B</td>
 		<td>Data 3B</td>
 	</tr>
 	<tr>
+		<th>Label 3</th>
 		<td>Data 1C</td>
 		<td>Data 2C</td>
 		<td>Data 3C</td>
