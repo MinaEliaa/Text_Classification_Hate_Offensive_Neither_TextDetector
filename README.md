@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	Labeled Text Dataset
+	it is a Mobile App to test the text(tweet) and check if it (Hate or Offensive or Neither) tweet with their percentages
 </head>
 <body>
 	<h1>Stats & Accuracy of SVM Model</h1>
