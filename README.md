@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	it is a Mobile App to test the text(tweet) and check if it (Hate or Offensive or Neither) tweet with their percentages
+	test the text(tweet) and check if it (Hate or Offensive or Neither ) with their percentages
+	by using Random Forest and Support Vector Machine Models and down there is Android Mobile App link that make those functions
 </head>
 <body>
 	<h1>Stats & Accuracy of SVM Model</h1>
