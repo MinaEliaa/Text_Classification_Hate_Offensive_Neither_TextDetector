@@ -4,6 +4,14 @@
 <head>
 	test the text(tweet) and check if it (Hate or Offensive or Neither ) with their percentages
 	by using Random Forest and Support Vector Machine Models and down there is Android Mobile App link that make those functions
+	
+	<ul>
+		<li>Backend by Pycharm (app.py)</li>
+		<li>SVM Model (Final_SVM_Model_)</li>
+		<li>RF Model (Final_RF_Model)</li>
+		<li>Dataset (labeled_data)</li>
+	</ul>
+	
 </head>
 <body>
 	<h1>Stats & Accuracy of SVM Model</h1>
